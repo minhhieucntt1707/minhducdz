@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+#logo {
+    display: inline-block;
+}
+h1 {
+    text-align: center;
+    font-size: 32px;
+    color: #333; /* Màu chữ tùy chỉnh */
+}
+.section {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.product {
+    display: inline-block;
+    width: 30%;
+    margin: 0 15px;
+    text-align: left;
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+}
+
+.product h3 {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.product p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+}
